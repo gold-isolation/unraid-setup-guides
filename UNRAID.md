@@ -2,7 +2,9 @@
 
 ## Requirements
 
-Server with Keyboard and Monitor *(for initial configuration only)*
+Server
+
+Keyboard and Monitor *(for initial configuration only)*
 
 USB Flash drive 4-32GB
 
