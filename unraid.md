@@ -6,17 +6,17 @@ Server (Old PC or Mac)
 
 Keyboard and Monitor *(for initial configuration only)*
 
-USB Flash drive 4-32GB
+USB Flash Drive 4-32GB *(name branded)*
 
-Ethernet connection to LAN
+Ethernet Connection to LAN
 
 ## Step 1 - Unraid USB and Installation 
 
 Download Unraid USB Creator from [here](https://unraid.net/download)
 
-Install Unraid to USB drive
+Install Unraid to USB Drive
 
-Remove USB drive and plug it into your server
+Remove USB Drive and plug it into your server
 
 Boot into your server's BIOS settings and make the following changes:
 
@@ -24,15 +24,15 @@ Boot into your server's BIOS settings and make the following changes:
 
 - Enable hardware virtualization-specific features (including IOMMU), if applicable
 
-- You can find more details on BIOS configuration in the [Advanced BIOS configuration guide](https://docs.unraid.net/go/advanced-bios-config/)
+- More details on BIOS configuration in the [Advanced BIOS configuration guide](https://docs.unraid.net/go/advanced-bios-config/)
 
 - Save your BIOS configuration changes and exit to boot Unraid OS
 
-Boot Unraid (Select Unraid OS not GUI)
+Boot Unraid *(Select Unraid OS not GUI)*
 
-Once installed it will show IPv4 address
+Once installed it will show local IPv4 address
 
-Using another computer type this address into your browser to go to the Web GUI
+Using another computer *(on the same network)* type this IP address into your browser to go to the Unraid Web GUI
 
 Setup a strong password for root user
 
