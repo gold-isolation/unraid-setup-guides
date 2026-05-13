@@ -2,7 +2,7 @@
 
 ## Requirements
 
-Server
+Server (Old PC or Mac) 
 
 Keyboard and Monitor *(for initial configuration only)*
 
