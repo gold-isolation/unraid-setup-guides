@@ -1,1 +1,1 @@
-[Unraid Installation](https://github.com/gold-isolation/unraid-setup-guides/UNRAID.MD) 
+[Unraid Installation](https://github.com/gold-isolation/unraid-setup-guides/UNRAID.md) 
