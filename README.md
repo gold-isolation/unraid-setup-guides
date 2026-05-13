@@ -11,3 +11,11 @@ Immich Server
 
 PiHole
 
+## My Hardware
+
+Dell Options Micro or SFF (Intel i5 gen 8 and above for iGPU) 
+
+16GB RAM
+
+1TB SSD - Files only
+256GB SSD - Docker, VMs
