@@ -64,3 +64,30 @@ Main Tab > Array Operation > Format
 
 *After Format complete, Unraid will mount Disks*
 
+## Docker
+
+Settings > Docker > Enable Docker - Yes
+
+Docker data-root - btrfs vDisk *(More reliable format)*
+
+Enable Advanced View *(Top Right)*
+
+Preserve user defined networks - Yes
+
+Select "Apply"
+
+## Shares
+
+Shares > Add Share
+
+Share Name - media
+
+Comments - media
+
+Primary Storage - Cache
+
+Secondary Storage - Array
+
+Allocation Method - High Water
+
+Select "Add Share"
