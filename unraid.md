@@ -40,13 +40,27 @@ Activate Unraid or select Trial
 
 Unraid is now installed and runs from USB drive, be sure not to unplug USB drive while server is running
 
+## Step 1.5 Dark Mode
+
+Settings > Display Settings > Dynamix color theme - Black
+
+Header custom text color - fd882f
+
+Header custom background color - 1c1b1b
+
 ## Step 2 - Assign devices to the Array and Pool
 
-Now you’re ready to assign devices for Unraid to manage.
+Assign array devices from "Main" Tab
 
-- Assign devices in the “Main” tab of the Unraid WebGUI. On this page, you’ll see a list of Array device and Pool device assignments, as well as any unassigned devices and the boot device.
-- Use the dropdowns to select disks for your array (parity and non-parity drives) and pool devices. [Learn more about storage management.](https://docs.unraid.net/go/quick-install-guide-assigning-devices/)
-- Once you have assigned all your devices, select the “Start” button under “Array Operation.” This will mount your devices and start the array.
-- Once you have started the array, plan and create shares to simplify how you store data across multiple disks. [Learn more about shares.](https://docs.unraid.net/go/shares/)
+Select disks for your array (parity and non-parity drives) and pool devices / cache (can be a USB Drive)
 
-For more details and recommendations for assigning disks, see our product documentation.
+Select the “Start” button under “Array Operation”
+
+This will mount your devices and start the array
+
+Go to Settings Tab > Disk Settings > Enable Auto Start - Yes
+
+Main Tab > Array Operation > Format
+
+*After Format complete, Unraid will mount Disks*
+
